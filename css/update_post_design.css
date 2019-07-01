@@ -1,0 +1,32 @@
+body{
+	background-color: #eeeeee;
+	
+}
+
+form{
+	padding: 10px;
+}
+
+#update_form_div{
+	text-align: center;
+	width: 60%;
+	margin: auto;
+	margin-top: 3%;
+	padding: 10px;
+	padding-top: 20px;
+	background-color: #ffffff;
+	border-color: #dddddd;
+	border-style: groove;
+	border-width: 5px;
+	
+}
+
+#update_buttn{
+	border-style : groove;
+	background-color: #aabbcc;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	cursor: pointer;
+}

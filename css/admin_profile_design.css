@@ -1,0 +1,161 @@
+ody{
+	 background-image: url("nostalgic_blue_background_06_hd_pictures_169782.jpg")
+}
+
+#profile_div{
+	margin: auto;
+	text-align: center;
+	width: 600px;
+	background-color: #FFFFFF;
+	margin-top: 50px;
+	border-radius: 10px;
+	border-style: groove;
+	border-color: #47D2E9;
+	margin-bottom: 100px;
+}
+
+
+
+#pro_pic{
+	padding: 10px;
+	border-color: #546c5c;
+	border-style: solid;
+	border-radius: 100px;
+}
+
+
+#pic_form{
+	padding: 10px;
+}
+
+#pic_div{
+	background-color:#47D2E9;
+	text-align: center;
+	
+	
+}
+
+#basic_info{
+	margin: auto;
+	display: block;
+	padding: 15px;
+}
+
+#password_change_div{
+	padding: 10px;
+	background-color: #47D2E9;
+	display: inline-block;
+	margin-top: -500px;
+	position: fixed;
+	margin-left: 50px;
+	border-radius: 5px;
+}
+ody{
+	background-color: #EEEEEE;
+}
+
+#profile_div{
+	margin: auto;
+	text-align: center;
+	width: 700px;
+	background-color: #FFFFFF;
+	margin-top: 50px;
+	border-radius: 10px;
+	border-style: groove;
+	border-color: #47D2E9;
+	margin-bottom: 100px;
+}
+
+
+
+#pro_pic{
+	padding: 10px;
+	border-color: #546c5c;
+	border-style: solid;
+	border-radius: 100px;
+}
+
+
+#pic_form{
+	padding: 10px;
+}
+
+#pic_div{
+	background-color:#47D2E9;
+	text-align: center;
+	
+	
+}
+
+#basic_info{
+	margin: auto;
+	display: block;
+	padding: 15px;
+}
+
+#password_change_div{
+	padding: 10px;
+	background-color: gray;
+	display: inline-block;
+	margin-top: -690px;
+	position: fixed;
+	margin-left: 500px;
+	border-radius: 5px;
+}
+ody{
+	background-color: #EEEEEE;
+}
+
+#profile_div{
+	margin: auto;
+	text-align: center;
+	width: 800px;
+	background-color: #FFFFFF;
+	margin-top: 50px;
+	border-radius: 10px;
+	border-style: groove;
+	border-color: #47D2E9;
+	margin-bottom: 100px;
+}
+
+
+
+#pro_pic{
+	padding: 10px;
+	border-color: #546c5c;
+	border-style: solid;
+	border-radius: 100px;
+}
+
+
+#pic_form{
+	padding: 10px;
+}
+
+#pic_div{
+	background-color:rgb(120, 120, 120);
+	text-align: center;
+	
+	
+}
+
+#basic_info{
+	background-color: lightgrey;
+    width: 635px;
+    border: 25px solid rgb(120, 120, 120) ;
+    padding: 30px;
+    margin: 25px;
+	
+}
+	background-color:rgb(180, 180, 180)
+}
+
+#password_change_div{
+	padding: 10px;
+	background-color: #47D2E9;
+	display: inline-block;
+	margin-top: -500px;
+	position: fixed;
+	margin-left: 50px;
+	border-radius: 5px;
+}

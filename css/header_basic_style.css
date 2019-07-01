@@ -1,0 +1,167 @@
+body{	
+	
+	margin:0px;
+	padding:0px;
+	border:0px;
+	color: navy;
+	background-color: lightgray;
+	
+}
+
+#home{
+	text-decoration: none;
+	
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	margin-left: 120px;
+	
+}
+#home:hover{
+	text-decoration: none;
+	
+	color: red;
+	font-weight: bold;
+	font-size: 40px;
+	margin-left: 120px;
+	
+}
+
+.top_header{
+	background-color: gray;
+    width: 1250px;
+     border: 10px solid black;
+    padding: 60x;
+    margin: 50px;
+}
+
+
+#account_a{
+	
+	margin-left: 450px;
+	margin-top: 15px;
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#regi_a{
+	
+	margin-left: 50px;
+	margin-top: 15px;
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#account_a:hover{
+	
+	margin-left: 450px;
+	margin-top: 15px;
+	color: Red;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#regi_a:hover{
+	
+	margin-left: 50px;
+	margin-top: 15px;
+	color: Red;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#post,#profile,#logout{
+	color: #ffffff;
+	font-size: 18px;
+	text-decoration: none;
+	
+
+}
+#post:hover,#profile:hover{
+	
+	color: red;
+}
+
+#logout:hover{
+	font-size: 20px;
+	color: red;
+}
+
+
+.top_header_logged{
+	background-color: gray;
+    width: 1275px;
+     border: 5px solid black;
+    padding: 30x;
+    margin: 30px;
+		
+}
+
+#home_link{
+	margin-left: 300px;
+	vertical-align: middle;
+}
+
+#name_imge{
+	margin-left: 140px;
+	vertical-align: top;
+}
+
+.each_post{
+	margin: auto;	
+	margin-top:5px;
+	width: 65%;
+	background-color: #F2F2F2;
+	margin-bottom: 0px;
+	text-align: center;
+	padding-left: 0px;
+	border-radius: 0px;
+	border-style: solid;
+	border-color:#50AFE4;
+	border-radius: 0px;
+}
+
+#search_form{
+	margin-left: 750px;
+	margin-top: 10px;
+	
+}
+
+#start,#end{
+	width: 50px;
+	border-radius: 10px;
+}
+
+#area{
+	width: 80px;
+	border-radius: 10px;
+
+}
+
+
+#button{
+	border-radius: 10px;
+	background-color:#47e862;
+	height:20px;
+	width:20px;
+	background-image: url('../website_icon/search.jpg');
+	background-size : 20px 20px;
+	
+
+	}
+#button:hover{
+	border-radius: 10px;
+	background-color:#47e862;
+	height:20px;
+	width:20px;	
+	background-size : 20px 20px;
+	
+
+	}
+	
+
+
+	
+
